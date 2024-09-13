@@ -1,2 +1,2 @@
 # Financial-Dash
-For while, a dashboard to check many charts at the same time
+For now, a dashboard to view multiple charts simultaneously
